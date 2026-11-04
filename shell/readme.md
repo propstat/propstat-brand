@@ -1,3 +1,5 @@
+![PROPSTAT Logo in Shell](shell/example_propstat-logo-shell.png)
+
 # Shell Usage of Propstat Colors and Logo
 
 ## Color Scheme 
