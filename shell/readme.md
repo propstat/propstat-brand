@@ -1,4 +1,4 @@
-![PROPSTAT Logo in Shell](/example_propstat-logo-shell.png)
+![PROPSTAT Logo in Shell](./example_propstat-logo-shell.png)
 
 # Shell Usage of Propstat Colors and Logo
 
