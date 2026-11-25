@@ -8,11 +8,11 @@ The safe zone is slightly smaller than 80% and should cover all applications wit
 
 | Description | File               |
 |-------------|--------------------|
-| Dark        |     <img src="https://github.com/propstat/propstat-brand/blob/main/favicons/transparent/propstat-favicon-transparent.svg" width="320"/>          |
+| Dark        |     <img src="https://github.com/propstat/propstat-brand/blob/main/favicons/transparent/propstat-favicon-transparent.svg" width="64"/>          |
 |             |   SVG / PNG / ICO  |
-| Transparent | <img src="https://github.com/propstat/propstat-brand/blob/main/favicons/dark/propstat-favicon-dark.svg" width="320"/> |
+| Transparent | <img src="https://github.com/propstat/propstat-brand/blob/main/favicons/dark/propstat-favicon-dark.svg" width="64"/> |
 |             |   SVG / PNG / ICO  |
-| Sky Blue    | <img src="https://github.com/propstat/propstat-brand/blob/main/favicons/onskyblue/propstat-favicon-skyblue.svg" width="320"/>  |
+| Sky Blue    | <img src="https://github.com/propstat/propstat-brand/blob/main/favicons/onskyblue/propstat-favicon-skyblue.svg" width="64"/>  |
 |             | SVG    |
-| Template    | <img src="https://github.com/propstat/propstat-brand/blob/main/favicons/mask/propstat-favicon-mask.svg" width="320"/>  |
+| Template    | <img src="https://github.com/propstat/propstat-brand/blob/main/favicons/mask/propstat-favicon-mask.svg" width="64"/>  |
 |             | https://github.com/propstat/propstat-brand/blob/main/favicons/propstat-favicons.vectorcraft   |
