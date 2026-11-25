@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1{fill:#182e5a}
+    </style>
+  </defs>
+  <title>favicon-dark</title>
+  <g id="Favicon_Dark" data-name="Favicon Dark">
+    <g>
+      <path d="M0 32 L0 0 L32 0 L32 32 Z M10.384 10.946 L15.999 21.054 L15.999 21.054 L27.231 21.054 L24.422 16 L21.616 10.946 L19.311 10.946 L23.774 18.979 L17.153 18.979 L12.689 10.946 Z M10.096 11.464 L4.769 21.054 L15.423 21.054 L14.271 18.979 L8.226 18.979 L11.249 13.538 Z M19.021 11.465 L16.288 16.386 L17.441 18.46 L20.174 13.54 Z" class="cls-1"/>
+    </g>
+  </g>
+</svg>

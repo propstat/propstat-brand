@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1{fill:#e4362d}
+      .cls-2{fill:#ffffff}
+      .cls-3{fill:#182e5a;fill-rule:evenodd}
+      .cls-4{fill:#5589c6;fill-rule:evenodd}
+    </style>
+  </defs>
+  <title>favicon-mask</title>
+  <g id="Favicon_Dark" data-name="Favicon Dark">
+    <g>
+      <rect x="0" y="0" width="32" height="32" class="cls-1"/>
+      <circle cx="16" cy="16" r="12.5" class="cls-2"/>
+      <g id="Logo">
+        <path d="M16.288 16.386 L19.021 11.465 L20.174 13.54 L17.441 18.46 Z M15.423 21.054 L4.769 21.054 L10.096 11.464 L11.249 13.538 L8.226 18.979 L14.271 18.979 L15.423 21.054" class="cls-3"/>
+        <polyline points="15.999,21.054 27.231,21.054 24.422,16 21.616,10.946 19.311,10.946 23.774,18.979 17.153,18.979 12.689,10.946 10.384,10.946 15.999,21.054" class="cls-4"/>
+      </g>
+    </g>
+  </g>
+</svg>
